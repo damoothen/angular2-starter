@@ -1,0 +1,7 @@
+{
+  "name": "angular2-starter",
+  "private": true,
+  "dependencies": {
+    "semantic": "semantic-ui#^2.1.8"
+  }
+}
